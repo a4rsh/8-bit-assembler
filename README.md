@@ -3,9 +3,9 @@
 
 ### Usage
 
-`make assembler`
-`./assembler input.txt output.bin`
-bin file can be used as `program.bin` with the CPU
+`make assembler`<br>
+`./assembler input.txt output.bin`<br>
+bin file can be used as `program.bin` with the CPU<br>
 
 ### Syntax
 ```WLO [R (A or B)] [XXXX]
